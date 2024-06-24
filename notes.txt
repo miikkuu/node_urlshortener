@@ -1,0 +1,20 @@
+spaces matter ,
+
+aysnc await ,
+
+no faltu options if you dont know ,
+
+spelling mistakes are important to look after,
+
+in express js , we have to use the middleware to handle the request and response,
+
+the sequence of get request is important to look after, if we have two get request with same path then the first one will be executed,
+
+use async await to handle the promises, it will make the code more readable and easy to understand, and also it will make the code more synchronous, 
+
+there are two ways to import , one by destructuring and other by using require,
+both are same but destructuring is more readable and easy to understand.
+
+use the nodemon to run the server, it will automatically restart the server when we make changes in the code,
+
+use the morgan to log the request and response, it will help to debug the code,     
